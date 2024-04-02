@@ -1,0 +1,7 @@
+name: k8s
+runtime: nodejs
+description: Cratercode EKS Stack
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: ""
